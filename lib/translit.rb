@@ -1,4 +1,4 @@
-# coding: utf-8
+# encoding: utf-8
 
 module Translit
   def self.convert(text, enforce_language = nil)
